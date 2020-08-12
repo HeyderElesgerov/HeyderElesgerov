@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on "Vidly" & "Your TODO"
+- 🔭 I’m currently working on "Vidly" & "Your TODO" projects
 - 🌱 I’m currently learning ASP.NET Core MVC
 - 🤔 I’m looking for help with ASP.NET Core MVC
 - 💬 Ask me about C# & .NET Core
